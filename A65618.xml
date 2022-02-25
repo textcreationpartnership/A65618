@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of some chief workes which Mr. William Wheeler offered to undertake he having already often performed many of them, and being able to demonstrate his sufficiency for the rest.</title>
+            <author>Wheeler, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65618</idno>
+            <idno type="STC">Wing W1602</idno>
+            <idno type="STC">ESTC R2961</idno>
+            <idno type="EEBO-CITATION">12374922</idno>
+            <idno type="OCLC">ocm 12374922</idno>
+            <idno type="VID">60556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 929:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of some chief workes which Mr. William Wheeler offered to undertake he having already often performed many of them, and being able to demonstrate his sufficiency for the rest.</title>
+                  <author>Wheeler, William, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Trigg ...,</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Errata: p. 8.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Technological innovations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60556:1"/>
+            <pb facs="tcp:60556:1"/>
+            <p>A LIST OF SOME CHIEF VVORKES WHICH M<hi rend="sup">r</hi>. WILLIAM WHEELER Offereth to undertake; He having already often performed many of them, and being able to demonſtrate his ſufficiency for the reſt.</p>
+            <q>
+               <bibl>Eccleſ. 9. verſ. 10.</bibl>
+               <p>VVhatſoever thine hand findeth to doe, doe it quickely, for there is no vvorke, nor device, nor knovvledge, nor vviſedome in the grave vvhither thou goeſt.</p>
+            </q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>AMSTERDAM, Printed by GEORGE TRIGG, Dvvelling by the Old Church. In the Bagijn Street, Anno. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60556:2"/>
+            <head>A Liſt of ſome chief works, which Mr. WILLIAM WHEELER offereth to undertake, having already often performed many of them, and being able to demon<g ref="char:EOLhyphen"/>ſtrate his ſufficiency for the reſt &amp;c.</head>
+            <p>
+               <label>I.</label> 
+               <seg rend="decorInit">H</seg>Ee makes Engines which by the help of one man have delivered 500 tunns of water in an houre, about three foot (as hath bin tried at Amſterdam) and others that deliver 1000 tunns in the ſame time, 6 foot high, with the help of one Horſe only. Theſe workes of his doe not only raiſe three times more water, but three times higher, then the draining Mills of the Low-Countries, and vvithall freeth the vva<g ref="char:EOLhyphen"/>ter vvhich hath bin raiſed, from vvhat remaines behind, vvhich theirs doe not doe, much of the vvater vvhich hath bin by them raiſed, retur<g ref="char:EOLhyphen"/>ning back againe thither from vvhence it came. Hee applies theſe inſtruments to the draining of ponds, meeres and all ſorts of vvaterish and fenny places, and conſequently maketh that Land to beare good graſs, vvhich before afforded nothing but rushes, ſedge and ſuch other unprofitable materialls, whereby the increaſe of ſuch Lands is multi<g ref="char:EOLhyphen"/>plied to a very vaſt proportion. Hee dreineth Cole-pits and Metall-Mines at far eaſier rates and with leſſe tireing and jadeing of horſes, then by the ordinary way, and performeth ſuch works of this nature, as by the meanes now in uſe are impoſſible. Contraryvviſe, he hereby drovvneth or vvatereth dry-lands, vvhether for makeing them more ſtrong and defenſible, or more fruitfull, then naturally they are. He can alſo hereby conveigh vvater to tovvnes or Houſes, that lie very remote from, and very much above any ſpring-heads or Rivers. He facilitates the ordinary devices of brevvers and diers in fitting their furneſes, and in generall, doth more in all reſpects of ſpeed, quantity, height, eaſe, &amp;c. concerning the buſynes of draining and drovvning, then by any other meanes and contrivances novv extant, hath bin or can be effected.</p>
+            <p>
+               <label>II.</label> Hee undertaketh to bore timber with a wooden Augur faſter,
+<pb n="3" facs="tcp:60556:2"/>ſtreighter, of a bigger boare, and vvithall much better Cheape, and the Pipes thus boared (if they be for the conveyance of vvater under ground to great diſtances) he ſo layeth and placeth, that they laſt tvvice or thrice as long, as they are vvont to doe being laid the ordi<g ref="char:EOLhyphen"/>nary vvay.</p>
+            <p>
+               <label>III.</label> He offereth to paſſe boates over a deepe River, running never ſo ſvvift and of great breadth, vvithout the uſe of oares, ſail, or ought elſe, that by its noiſe or viſibilitie, may give notice thereof: and on the other ſide of the ſaid River, to faſten piles into the ground, vvithout makeing any noiſe likevviſe; a matter of great uſe in the entring and takeing of Tovvnes fortified by ſuch Rivers. Where it is to be noted, that this vvay of driving piles, is not ſo diſtructive to them as that other of violent knocking, bruiſeing and shaking them, muſt needs be.</p>
+            <p>
+               <label>IV.</label> Hee maketh beames, for the vveighing of extraordinary vveights, by vvhich the trouble and coſt of ſuch vveighings may be much aba<g ref="char:EOLhyphen"/>ted; and doth more by Cranes, then is any vvhere uſually done.</p>
+            <p>
+               <label>V.</label> Hee hath expeditious vvayes to cut iron and many ſecrets of that Nature.</p>
+            <p>
+               <label>VI.</label> Hee hath contrived better tooles, both for diſpatch, cheapenes and exact vvorkeing, for ſundrie artificers and Gentlemen verſed in the more curious ſubtil and elegant Mechaniks: As namely ſavves, vvhere<g ref="char:EOLhyphen"/>by ovales, ſphaeres, or any portions or ſegments of them, may vvith one ſvveepe of the ſame be taken out of a body of timber or other ma<g ref="char:EOLhyphen"/>teriall and conſequently all curious and difficult excavations and hol<g ref="char:EOLhyphen"/>lovves much deſired for dialls &amp;c. may be more eaſily and more ſpee<g ref="char:EOLhyphen"/>dily made. Alſo vvashing-bovvles, cupps &amp;c. May be made more quickly and incomparably vvith leſſe expenſe of the materialls, then is ordinarily done.</p>
+            <p>
+               <label>VII.</label> Hee maketh Inſtruments for the formeing of Stone, into all man<g ref="char:EOLhyphen"/>ner of regular figures, vvhether right-lined, circular, or mixt, and the polishing them ſo shaped, vvith more eaſe and beauty then ordinary.</p>
+            <p>
+               <label>VIII.</label> Hee maketh fulling-Mills, vvhich vvith halfe the force by men or
+<pb n="4" facs="tcp:60556:3"/>horſes, are equivalent in ſtrength and effect to the common ones mo<g ref="char:EOLhyphen"/>ved by vvind or vvater. Theſe fulling-Mills he vvas moved to invent, that the buſynes of fulling might be moderated and governed at the deſcretion of the Artiſt, vvhich requireth another order and degrees of flack or vehement motion, then the unconſtant and unruly vvind or vvater vvill allovv. Novv the Art of fulling, is that vvhich gives as it vvere the very Eſſence to cloath and the faults committed therein, doe fruſtrate all that vvhereunto the goodnes of the vvoll, ſpinning and vveaveing might conduce; and are irreparable by the beſt art of thoſe that handle the cloath aftervvards.</p>
+            <p>
+               <label>IX.</label> Hee can ad ſuch helpes to a ship already built, as shall inable it to ſaile more ſpeedily in a calme, or ſmal gale and more ſafely in a ſtorme.</p>
+            <p>
+               <label>X.</label> Hee hath an Artifice to ſupply the vvant of a Rudder in caſe it be carried avvay vvith extremitie of vvether and can ſubſtitute another device in place thereof that perhaps shall ſatisfie the Intentions and uſes of a Rudder much more effectually. And vvhat advantage vvould ſuch an invention bring to merchants, vvhen their voyages may be made vvith leſſe expence of Sea-mens vvages and victualls and leſſe ſubjection to the Caſualties of the vvether? And vvhat ad<g ref="char:EOLhyphen"/>vantage to veſſels of vvarr in vvhom (it is vvell knovvne) ſvviftnes of ſaile is of more conſequence, then a triple ſtrength othervviſe.</p>
+            <p>
+               <label>XI.</label> Hee can in a manner ſecure a ship from being boarded by an Ene<g ref="char:EOLhyphen"/>mie, and yet have great advantages to board them; vvhich is the bu<g ref="char:EOLhyphen"/>ſynes, of all other, of moſt importance in Sea-fights.</p>
+            <p>
+               <label>XII.</label> Hee propoundeth a fort moveable and eaſily tranſportable, vvhi<g ref="char:EOLhyphen"/>ther the exigence of ſervice requires it, furnished vvith tvvelve pieces of ordnance more or leſſe, and all other vvarlike habiliments; vvhere<g ref="char:EOLhyphen"/>in the gunners shall be ſecure from their Enemies shot, and the vvhol ſoldiery exempt from the Annoyance of ſmoake: the ordnance being ſcarce diſmountable, the vvhole fort free from being shaken, broken and diſordered; the labour of chargeing and diſchargeing the Gunnes leſſened, the levelling and traverſing them upon all lines compleatly performed, vvith ſmal and eaſy motions.</p>
+            <pb n="5" facs="tcp:60556:3"/>
+            <p>
+               <label>XIII.</label> He undertaketh to make a Colonie defenſible, vvithin fortie-eight houres after the firſt landing of the Planters, and vvithin a vveekes time of an extraordinary reſiſtance. Whereas vve ſee that novv our Europaeans vvhen they vvould occupie any of the better Lands in America, muſt be guarded vvith ſome thouſands of Men, vvhich muſt be alvvayes kept in a body and that in a poſture of vvarre, to prevent the Aſſaults of the natives (vvho are moſt plentyfull upon the richeſt grounds) vvhich is a mighty diſcommodity to young beginners, vvho expecting a Land of Canaan and reſt, find themſelves in a Campe of vvarr; and to them ſuch expence of time and coſt are for the moſt part intollerable.</p>
+            <p>
+               <label>XIV.</label> Hee can by Carts of a nevv fashion tranſport great burthens from Place to place; and vvhereas the old ones ſpoile good vvayes, by ma<g ref="char:EOLhyphen"/>king holes, Cartrouts &amp;c. in them; to the extreme prejudice of the poore Cattle that dravv them, to the vexation of the drivers (vvho vvith their horſes and carriages are oft times ſtuck faſt in a Bogg, hole or ſlough) and to the diſpleaſure and irkeſomnes of travailers: theſe nevv Inventions shall plaine, and level, and ſtrengthen the ſaid vvayes, in ſuch ſort, as if their vvhole uſe vvere but to mend, vvhat the others have undone and ſpoiled.</p>
+            <p>
+               <label>XV.</label> Neither doth he only take avvay the common loathſome diſcom<g ref="char:EOLhyphen"/>modities of High-vvayes, but can make the vvorſt of them viz: the great roades vvithin a mile or tvvo of Londen, or any other great Cit<g ref="char:EOLhyphen"/>tie, vvhere vvayes are bad, like pleaſant Promenadoes and vvalkes of recreation in all kinds of vveather. For vvant vvhereof moſt great Citties are ſo fare from shareing vvith Amſterdam in its Character. 1. From being faire priſons, that they may deſervedly be called very foule and unvvholeſome jakes and dunghils in compariſon of it.</p>
+            <p>
+               <label>XVI.</label> Hee undertakes to make the Cittie of Londen a very faire ſvveet and pleaſant Cittie; for, beſides the aforementioned imbellishing the High-vvayes and rodes about it, he doubteth not but vvithin a vveeks time, to make it ſo cleane vvithin, that one may vvalke in ſlippers in all vveathers (except ſnovv) in the fovvleſt ſtreets thereof;
+<pb n="6" facs="tcp:60556:4"/>and can ſettle a vvay vvhereby it may be ſo preſerved vvith leſſe then half an houres labour a day, and vvith a very ſlight and cheape provi<g ref="char:EOLhyphen"/>ſion. So that Houſes ſcarce kept ſufficiently cleane vvith tvvo ſervants, may by his direction be put into that condition by one: to the great preſervation of cloaths and shoeleather; as alſo of health and the invi<g ref="char:EOLhyphen"/>tation of Countrey-Gentlemen to live in it, vvho doe for no other rea<g ref="char:EOLhyphen"/>ſon more then its foulenes, abhorr to reſide more frequently in it. And beſides all this (vvhich may ſeeme ſtrangeſt) the very charge of ſcaven<g ref="char:EOLhyphen"/>gers shall be much leſſened, and the dirt vvhich in time, being in ſo great quantities vvashed into the Thames, vvill damm it up, shall be converted to other uſes, and that vvater vvhich fovvles the ſaid River shal clenſe the Land upon all occaſiones, and be ready in certaine Re<g ref="char:EOLhyphen"/>poſitories or Ciſternes, vvhich he vvill make to run themſelves, vvhe<g ref="char:EOLhyphen"/>therſoever the neceſſity of quenching fires calls them. Whereupon the confuſion and vvaſt of breakeing up the ſtreets, opening the vva<g ref="char:EOLhyphen"/>ter-pipes &amp;c: Made in ſuch extremities, shal vvholly ceaſe, as being no vvayes requiſite.</p>
+            <p>
+               <label>XVII.</label> Hee vvill order that Bells may be rung vvith far leſſe ſtrength and ſmaler ſized ropes then uſuall, vvhereby vve might oftner heare the pleaſant noiſe of Bells, vvithout a tumult of Ringers.</p>
+            <p>
+               <label>XVIII.</label> Hee is ſorry to ſee Corne and fulling-Mills ſet croſſe rivers, ſo as to hinder the paſſablenes and navigabilitie of them, and therefore hath invented a Mill, vvherein one horſe shall out-grind the ſtrength of a great ſtreame, and others vvherein one man may out-doe one horſe. The vvhich beſides the other uſes, vvould be of no ſmall benefit in beſieged Tovvnes, Colonies, &amp;c. vvhere men cannot, or dare not, make uſe of other Mills.</p>
+            <p>
+               <label>XIX.</label> Hee hath by his obſervation found out ſure and un-erring markes to knovv vvhere ſprings are, and hath effectuall vvayes of preſerveing and encreaſing them, and although they riſe in very lovv grounds, he can tranſmit their vvaters to houſes and tovvnes ſituate upon an hill; and not only bring them to an houſe, but convert them to many very pleaſant and convenient uſes therein.</p>
+            <pb n="7" facs="tcp:60556:4"/>
+            <p>
+               <label>XX.</label> His inſight into Gardening extendeth to the nourishing and culti<g ref="char:EOLhyphen"/>vatening of out-landish plants and trees here at home, ſo as to make them proſper and flourish as in their proper ſoile, hovvbeit vvith leſſe and vvorſe fruit; to make our domeſtick more fruitfull; to accelerate the budding and ripening of fruits and flovvers, as alſo to produce them out of their naturall ſeaſons; to make arbours; and particularly to plant fruit trees vvith advantage upon boggs and fenns, that novv yeeld little profit to their ovvners.</p>
+            <p>
+               <label>XXI.</label> Hee can diſcover a certaine vvood (vvhereof there is great ſtore in Engeland) hitherto vvholly neglected and deſpiſed, fit for timber, fair, tough and dureable, free from vvormes, not ſubject to rott ei<g ref="char:EOLhyphen"/>ther in the vvet or dry, fitt for vvater-conduits, generally good for all joyners vvorks, particularly for vvainſcot, and vvithall very light of carriage.</p>
+            <p>
+               <label>XXII.</label> Hee maketh a certaine Cement, vvhich may be molded into any fi<g ref="char:EOLhyphen"/>gure and being polished is ſo hard that no ordinary ſtone-tooles vvill touch it, very beautyfull and dureable and of a very reaſonable rate.</p>
+            <p>
+               <label>XXIII.</label> Hee maketh vvalls as firme and ſubſtantiall as thoſe of ſtone and brick and vvith a little paines as beautyfull (if it be by the Sea-ſide) and in other places of pebble-ſtones, gravel, or ſuch like rubbish; and vvith this matter he can counterfeit either brick or ſtone, at a very ea<g ref="char:EOLhyphen"/>ſy rate.</p>
+            <p>
+               <label>XXIV.</label> Hee undertakes to preſerve Beefe, Pork, Mutton and Veniſon a tvvelve moneths time from ſtinkeing and putrefaction; and can ſo re<g ref="char:EOLhyphen"/>duce tainted meates, that the moſt diſcerning palate, after he hath or<g ref="char:EOLhyphen"/>dered them, shall never be ſenſible of any ſuch defect.</p>
+            <p>
+               <label>XXV.</label> Hee can in all ſeaſons and Countries vvhether exceſſively intempe<g ref="char:EOLhyphen"/>rate in reſpect of heat, cold, or moiſture; vvhere meates vvill either not take ſalt at all, or ſuddenly putrifie being ſalted; remedie both the one and the other Inconveniencie.</p>
+            <pb n="8" facs="tcp:60556:5" rendition="simple:additions"/>
+            <p>
+               <label>XXVI.</label> Where there is occaſion of building a fortreſs by the Sea-ſide, vvhere all convenient materialls, ſeeme to be vvanting; he under<g ref="char:EOLhyphen"/>takes nevertheleſſe to find vvherevvithall to make a fort, at leaſt Ca<g ref="char:EOLhyphen"/>non-proofe.</p>
+            <p>
+               <label>XXVII.</label> He maketh up Sea-breaches vvhereſoever they happen, more ſpeedily and firmly then by any vvay yet practiſed.</p>
+            <p>
+               <label>XXVIII.</label> Hee vvill raiſe a fountaine out of a Levell-ground: vvhereas the ordinary ones are brought at a vaſt charge from ſome adjacent hills, vvhich as they are cheaper then the others; ſo are they no vvayes infe<g ref="char:EOLhyphen"/>rior to them in beauty and high-throvving of the vvater.</p>
+            <p>
+               <label>XXIX.</label> Whereas it happens upon the draining of Mersh or Fennie grounds that the materialls as turf-lands (vvhereof the bankes uſed to that pur<g ref="char:EOLunhyphen"/>poſe are commonly made) are ſubject either to dry &amp; burne avvay i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſummer; or to be burnt up by miſcheivous people, or to ſubſide and ſinke in vvinter, hee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an ſecure ſuch vvorkes, from the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Incon<g ref="char:EOLhyphen"/>veniencies.</p>
+            <p>
+               <label>XXX.</label> Moreover he can make theſe bankes ſo, as by vvhat they shall pr<g ref="char:EOLunhyphen"/>duce to defray the charge of their makeing.</p>
+            <closer>
+               <signed>Glory be to God the Father of Lights through JESU CHRIST. WILLIAM WHEELER.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <bibl>Eccleſ. 9.16.18.</bibl>
+                  <p>VViſdome is better then ſtrength.</p>
+                  <p>VViſdome is better then vveapons of warr.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>It is to be noted that in page (1.) it is meant Hollands <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which hath b<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> approved on before the States Generall in the Hague, and at other places.</p>
+            <pb facs="tcp:60556:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
